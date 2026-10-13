@@ -57,3 +57,8 @@ tables/
 *.xlsx
 square-mud-*.json
 data/
+
+# Lab Assessments (Separate Repositories)
+DataBaseLab/
+temp_clone/
+
